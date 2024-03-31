@@ -1,5 +1,5 @@
 # Portrait-Display-DB15
-A DB15 adapter board to replace the 13W3 portrait display with an easier to find cable
+A DB15 adapter board to replace the 13W3 portrait display with an easier to find cable.
 I made this board because i own a portrait display, but not the elusive original 13W3 to DB15 cable that came with it! 
 
 Only two problems came with this upgrade...
